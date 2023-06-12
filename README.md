@@ -1,10 +1,10 @@
-Hi 👋 My name is Joao
-==========================
+Hello everyone, 👋 My name is Joao
+===================================
 
 Front End Software Developer
 -----------------------------
 
-I'm a 19 years old developer 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end development, making applications that impact the life of thousands of users.
+I'm a 19 years old developer since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end development, making applications that impact the life of thousands of users.
 
 I am also a student at [Graduação Descomplica](https://descomplica.com.br/faculdade/), a distance learning Universiy.
 
@@ -13,8 +13,8 @@ I am also a student at [Graduação Descomplica](https://descomplica.com.br/facu
 * 🧠  I'm learning Javascript, React and .NET programming languages
 * ⚡  I love sports and my favorite is bodybuilding
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<a href="https://www.github.com/JoaoEustaquio" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/JoaoEustaquio?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
